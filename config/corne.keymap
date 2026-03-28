@@ -100,7 +100,7 @@ x               x               &msc SCRL_LEFT  &mmv MOVE_UP    &msc SCRL_RIGHT 
                 };
                 layer_3 {
                         bindings = <
-x               x               x               x               x               x                               x               x               x               x               x               x               
+&bt BT_CLR_ALL  x               x               x               x               x                               x               x               x               x               x               x
 &bt BT_CLR      &bt BT_SEL 0    &bt BT_SEL 1    &bt BT_SEL 2    &bt BT_SEL 3    &bt BT_SEL 4                    x               x               x               x               x               x               
 x               x               x               x               x               x                               x               x               x               x               x               x               
                                                 x               x               &bootloader                     &bootloader     x               x               
